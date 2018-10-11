@@ -1,6 +1,6 @@
 # MachineLearning
 
-### Chapter 1 : <code> Classifying Iris Species </code>
+### Chapter 1 : <code> Introduction to ML </code>
 ### Chapter 2 : <code> Supervised Learning </code>
 ### Chapter 3 : <code> Unsupervised and Preprocessing Learning </code>
 ### Chapter 4 : <code> Representing Data and Engineering Features </code>
